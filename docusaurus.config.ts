@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'zjceo', // Usually your GitHub org/user name.
+  organizationName: 'buhola', // Usually your GitHub org/user name.
   projectName: 'colombia', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -47,7 +47,7 @@ const config: Config = {
           showLastUpdateAuthor: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/zjceo/colombia/tree/main/",
+          editUrl: "https://github.com/buhola/colombia/tree/main/",
         },
         //blog: {
         //  showReadingTime: true,
